@@ -1,0 +1,6 @@
+target/
+tmp/
+output/
+dependency-reduced-pom.xml
+
+*.tar
